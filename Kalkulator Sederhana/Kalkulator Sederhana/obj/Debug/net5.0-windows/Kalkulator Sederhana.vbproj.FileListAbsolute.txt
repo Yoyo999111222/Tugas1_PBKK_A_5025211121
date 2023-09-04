@@ -1,0 +1,19 @@
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net5.0-windows\Kalkulator Sederhana.exe
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net5.0-windows\Kalkulator Sederhana.deps.json
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net5.0-windows\Kalkulator Sederhana.runtimeconfig.json
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net5.0-windows\Kalkulator Sederhana.runtimeconfig.dev.json
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net5.0-windows\Kalkulator Sederhana.dll
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net5.0-windows\ref\Kalkulator Sederhana.dll
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\net5.0-windows\Kalkulator Sederhana.pdb
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net5.0-windows\Kalkulator Sederhana.vbproj.AssemblyReference.cache
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net5.0-windows\Kalkulator_Sederhana.Form1.resources
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net5.0-windows\Kalkulator_Sederhana.Resources.resources
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net5.0-windows\Kalkulator Sederhana.vbproj.GenerateResource.cache
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net5.0-windows\Kalkulator Sederhana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net5.0-windows\Kalkulator Sederhana.AssemblyInfoInputs.cache
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net5.0-windows\Kalkulator Sederhana.AssemblyInfo.vb
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net5.0-windows\Kalkulator Sederhana.vbproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net5.0-windows\Kalkulator Sederhana.dll
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net5.0-windows\ref\Kalkulator Sederhana.dll
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net5.0-windows\Kalkulator Sederhana.pdb
+C:\Users\ACER NITRO\OneDrive\Documents\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\net5.0-windows\Kalkulator Sederhana.genruntimeconfig.cache
